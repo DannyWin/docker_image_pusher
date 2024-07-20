@@ -1,5 +1,5 @@
 nginx
-jenkins/jenkins:lts-jdk17
+jenkins/jenkins
 postgres
 gitlab/gitlab-ce
 dockurr/windows
