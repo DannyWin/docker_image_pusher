@@ -1,12 +1,12 @@
 nginx
-jenkins/jenkins:lts-jdk17
+jenkins/jenkins
 postgres
 gitlab/gitlab-ce
 dockurr/windows
 mysql
 redis
-ubuntu:22.04
-ubuntu/nginx:1.18-22.04_beta
+ubuntu
+ubuntu/nginx
 
 
 #支持私库
