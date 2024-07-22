@@ -1,5 +1,4 @@
 nginx
-jenkins/jenkins
 jenkins/jenkins:lts-jdk17
 postgres
 gitlab/gitlab-ce
