@@ -8,6 +8,7 @@ redis
 ubuntu
 ubuntu/nginx
 sonatype/nexus3
+qgis/qgis
 
 
 #支持私库
