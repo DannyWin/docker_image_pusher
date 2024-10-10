@@ -1,13 +1,20 @@
 nginx
+nginx:alpine3.20
 jenkins/jenkins
+jenkins/jenkins:alpine3.20-jdk21
+jenkins/jenkins:alpine3.20-jdk17
 postgres
+postgres:alpine3.20
 gitlab/gitlab-ce
 dockurr/windows
+dockurr/macos
 mysql
+redis
 redis:alpine3.20
 ubuntu
 ubuntu/nginx
 sonatype/nexus3
+sonatype/nexus3:3.72.0-alpine
 qgis/qgis
 
 
